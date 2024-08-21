@@ -73,17 +73,17 @@ print("RMSE= ",rmse)
 ### Head Values
 ![output](./images/head.png)
 ### Tail Values
-![output](./images/tail.png)
+
 ### X and Y values
-![output](./images/xyvalues.png)
+
 ### Predication values of X and Y
-![output](./images/predict%20.png)
+
 ### MSE,MAE and RMSE
-![output](./images/values.png)
+
 ### Training Set
-![output](./images/train.png)
+
 ### Testing Set
-![output](./images/test.png)
+
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
